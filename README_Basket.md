@@ -38,7 +38,7 @@ The analysis highlighted strong associations between items with a high lift valu
 <h3>Conclusion</h3>
 The association rule analysis using the lift metric reveals that certain products are frequently purchased together when their lift value exceeds one, with the strongest observed association having a lift value of 22.8.
 
-<h3>How To Use The Code</h3>
+<h3>Usage</h3>
 1. Install libraries needed for data handling and analysis.
 
 2. Load data into a suitable format for exploration.
